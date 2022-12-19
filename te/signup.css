@@ -1,0 +1,18 @@
+*{
+   
+   
+    font-size: 20px;
+    background-image: url(../images/home2.jpg);
+    background-size: cover;
+    background-attachment: fixed;  
+    /* commend shotcut ctrl + /  
+    and background-attachment : fixed for no repeating the background image */
+    
+
+   
+}
+form{
+     position: absolute;
+     top: 25%;
+     left: 30%;
+}
